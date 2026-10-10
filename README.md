@@ -164,7 +164,7 @@ The automated metric insights market spans **BI-native insight engines** (Tablea
 
 - **[Metabase](https://github.com/metabase/metabase)** [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
 
-  **Most popular open-source BI by GitHub stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar` and you have a BI tool . **Visual query builder** translates clicks into SQL for non-technical users . **OSS static embedding free** with "Powered by Metabase" badge; **Pro Interactive Embedding unlocks white-label, RLS, and SSO** . **Metaverse MCP server** enables **natural language alert setup** — "Notify me when any provider has more than 10 refunds in an hour" . 🎯
+  **Most popular open-source BI by GitHub_Stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar` and you have a BI tool . **Visual query builder** translates clicks into SQL for non-technical users . **OSS static embedding free** with "Powered by Metabase" badge; **Pro Interactive Embedding unlocks white-label, RLS, and SSO** . **Metaverse MCP server** enables **natural language alert setup** — "Notify me when any provider has more than 10 refunds in an hour" . 🎯
 
 
 

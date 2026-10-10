@@ -1,31 +1,18 @@
-# Awesome-Automated-Metric-Insights
-
 # Awesome-Automated-Metric-Insights 📊 🧠
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Automated Metric Insights Banner" width="100%">
-
 </p>
 
 
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Metric-Insights"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Metric-Insights?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Metric-Insights/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Metric-Insights?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Metric-Insights/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Automated-Metric-Insights?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
 
 
@@ -33,30 +20,19 @@
 ---
 
 
-
 ## 🌟 Top Automated Metric Insights Ecosystem
-
-
 
 **Curated List of Commercial AI Analytics Platforms & Open-Source Anomaly Detection Tools**  
 
 *Focused on Automated Insight Generation, Anomaly Detection, Root Cause Analysis, Change Point Detection & Self-Hosted Metric Monitoring*
 
-
-
 **Last updated: October 2026** 📅
 
-
-
 ---
-
-
 
 ### 📌 Overview & SEO Summary
 
 Welcome to the ultimate curated directory of **automated metric insights platforms**, **open-source anomaly detection frameworks**, and **AI-powered analytics tools**. Whether you are looking for enterprise-grade commercial solutions (such as *Tableau Pulse*, *Sisu Data*, and *Anodot*), or self-hostable open-source alternatives (like *detectkit*, *OpenObserve*, and *Metabase*), this list covers category leaders, automated anomaly detection, and privacy-respecting metric intelligence.
-
-
 
 **Key Market Context:**
 
@@ -78,27 +54,16 @@ Welcome to the ultimate curated directory of **automated metric insights platfor
 
 - **OpenObserve Anomaly Detection** uses **Random Cut Forest (RCF)** with **100 random decision trees** on historical time series, **shingle size for context-aware scoring**, and **automatic seasonality detection** — trained in **under 60 seconds for 30 days of 5-minute data** .
 
-
-
 ---
-
-
 
 ## 📑 Table of Contents
 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
-
-
 
 ---
 
@@ -113,41 +78,25 @@ The automated metric insights market spans **BI-native insight engines** (Tablea
 
 
 | SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | **[Tableau Pulse](https://www.tableau.com/)** 📊 | Salesforce | ~$250 Billion | **$75/user/month** (Tableau Cloud Creator) | **14-day free trial** (Tableau Cloud); **60-day trial for Tableau Agent in Pulse** | **Enterprise BI with generative AI** — **Tableau Agent in Pulse for conversational metric exploration** . **Insight summaries and semantic matching included without Tableau+** . **Built on Salesforce Einstein Trust Layer with PII masking** . **Data never retained by LLM provider** . |
-
 | **[ThoughtSpot SpotIQ](https://www.thoughtspot.com/)** 🔍 | ThoughtSpot | ~$4 Billion | **$25/user/month** (Essentials plan) | **14-day free trial** | **Search-driven augmented analytics** — **Automated insight generation in seconds** using **ML and generative AI** . **Watchlists for monitoring critical metrics** with **automated anomaly alerts** . **Change analysis identifies root causes of KPI shifts** . **Forecasting with ML models** . **In-memory engine analyzes billions of rows in seconds** . |
-
 | **[Sisu Data](https://sisu.ai/)** 📈 | Snowflake (Acquired) | ~$50 Billion (Snowflake) | **Snowflake credits / Custom contract** | **Snowflake 30-day free trial ($400 credits)** | **Decision Intelligence Engine** — **Accelerates analysis with AI/ML-powered analytics** . **Fast, comprehensive, and actionable insights on critical metrics** . **Analyzes 10M combinations and 162K columns** . **4M+ rows analyzed per second, 47B factor combinations tested** . **Used by Microsoft, Samsung, and Upwork** . |
-
 | **[Tellius / Kaiya](https://www.tellius.com/)** 🧠 | Tellius | Private | **$495/month** (Tellius On-Demand compute credits) | **14-day free trial** (Tellius On-Demand self-service) | **AI-native decision intelligence** — **Feed lets users track metrics over time, set smart/threshold conditions, and receive automated alerts with visual insights** . **Intelligent (ARIMA) anomaly detection** . **Breakdown by dimensions to identify key segments** . **Scheduled email notifications with data refresh or custom cadence** . **Natural language search and automated insights** . |
-
 | **[Anodot](https://www.anodot.com/)** 📉 | Anodot | Private | **$1,000/month** (Base monitoring package) | **Taste of Anodot (Free report tool, 1 metric upload)**; **30-day pilot POC** | **Autonomous business monitoring** — **30 ML models** identify revenue, cost, and customer experience issues . **95% good catch rate** with correlated anomaly alerts . **Slashing time to detection by up to 80%** without configuration . **Forecasts operational metrics and alerts if at risk** . **Real-time anomaly detection for e-commerce** . |
-
 | **[Domo Stats](https://www.domo.com/)** 🟡 | Domo | ~$1 Billion | **$30,000/year (~$2,500/month credit package)** | **30-day free trial** | **Business cloud with AI** — **AI Chat with @-mention context, multi-dataset analysis, and chart generation** . **FileSets for unstructured data** . **AI Agents in Workflows** . |
-
 | **[Datadog Metric Alerts](https://www.datadoghq.com/)** 🐶 | Datadog Inc. | ~$40 Billion | **$15/host/month** (Infrastructure Pro) | **14-day free trial** (Full platform); **Free tier up to 5 hosts (1-day retention)** | **Full-stack observability with metric monitors** — **Anomaly detection using past behavior** . **Change alerts comparing absolute/relative change** . **Outlier detection for group divergence** . **Forecast alerts for trend prediction** . |
-
 | **[Amplitude Insights](https://amplitude.com/)** 📊 | Amplitude | ~$1.5 Billion | **$49/month** (Plus plan starting rate) | **Free Forever (Up to 2,000,000 events/month, unlimited seats)** | **Product analytics with automated insights** — **Replicates expert analyst's standard analysis process** with **chained tool calls** . **Investigates experiments, campaigns, and product releases** . **Presents clear findings and recommendations with cited sources** . |
-
 | **[Outlier AI](https://outlier.ai/)** 🔴 | Outlier | Private | **Freelancer Gig Platform ($15–$50/hour worker pay)** | **Free to join as freelancer (Unpaid onboarding assessment)** | **AI training platform** — **Connects experts with AI companies to provide human feedback** . **Not a metric insights tool** — listed for category completeness. |
-
 | **[Kinetica](https://www.kinetica.com/)** ⚡ | Kinetica | Private | **$0.80/hour** (Pay-as-you-go dedicated cluster) | **Free Forever Cloud Tier (Up to 10GB data storage)** | **Real-time analytics database** — **GPU-accelerated for extreme performance** . **Supports anomaly detection at scale** . |
-
 
 
 ---
 
-
-
 ## 🔓 Open-Source GitHub Projects
 
 
-
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
-
 
 
 - **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
@@ -176,7 +125,7 @@ The automated metric insights market spans **BI-native insight engines** (Tablea
 
 - **[OpenObserve](https://github.com/openobserve/openobserve)** [![Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social&color=white)](https://github.com/openobserve/openobserve/stargazers)  
 
-  **Cloud-native observability platform with built-in anomaly detection**, Apache-2.0 licensed. **140x lower storage costs than Elasticsearch** . **Rust-based, single binary** . **RCF anomaly detection**: **100 random decision trees** on historical time series . **Shingle size for context-aware scoring** — catches gradual drifts, pattern breaks, and contextual anomalies . **Automatic seasonality detection** based on available history (day, week, or hour patterns) . **Training 30 days of 5-minute data (~8,640 points) completes in under 60 seconds** . **Model is 2–5 MB on S3** . **Each scored point carries _timestamp, actual_value, score, threshold_value, is_anomaly, deviation_percent, model_version** . **Why Rust**: no GC pauses corrupting timing-sensitive detection, compile-time thread safety, precise memory . 🌊
+  **Cloud-native observability platform with built-in anomaly detection**, Apache-2.0 licensed. **140x lower storage costs than Elasticsearch** . **Rust-based, single binary** . **RCF anomaly detection**: **100 random decision trees** on historical time series . **Shingle size for context-aware scoring** — catches gradual drifts, pattern breaks, and contextual anomalies . **Automatic seasonality detection** based on available history (day, week, or hour patterns) . **Training 30 days of 5-minute data (~8,640 points) completes in under 60 seconds** . **Model is 2–5 MB on S3 . Each scored point carries_timestamp, actual_value, score, threshold_value, is_anomaly, deviation_percent_model_version.**  **Why Rust: no GC pauses corrupting timing-sensitive detection, compile-time thread safety precise memory** 🌊
 
 
 
